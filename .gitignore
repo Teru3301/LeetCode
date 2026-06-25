@@ -1,0 +1,14 @@
+*.o
+*.exe
+*.out
+*.app
+*.user
+*.userprefs
+*/CMakeCache.txt
+*/CMakeFiles/
+*/cmake_install.cmake
+*/Makefile
+*.cmake
+*/build
+*/build/*
+*/build*
